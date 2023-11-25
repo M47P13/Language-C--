@@ -50,12 +50,12 @@ The purpose of this software is to demonstrate proficiency in Kotlin programming
 
 ## Software Demo
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video][(https://www.youtube.com/watch?v=VOVdqUNJaA)]
 This one-minute YouTube demo showcases the software in action, providing a walkthrough of the code and demonstrating the functionalities.
 
 ## GitHub Repository
 
-[GitHub Repository](http://github.link.goes.here)
+[GitHub Repository][(https://github.com/M47P13/WateringPlant)]
 The source code for this Plant Watering Application is available in this GitHub repository. It includes the Kotlin code for the application's functionalities, such as managing plants, generating watering schedules, and maintaining a plant log.
 
 # Development Environment
